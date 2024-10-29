@@ -1,3 +1,4 @@
 moja prva linija u fajlu
 dodajem jos jednu liniju
 grana tri globalno
+grana 4 lokalno
