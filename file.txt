@@ -7,3 +7,4 @@ grana 6 lokal
 grana 7 lokal
 grana 8 g
 grana 9 global
+grana 10 global
