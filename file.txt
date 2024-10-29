@@ -7,4 +7,8 @@ grana 6 lokal
 grana 7 lokal
 grana 8 g
 grana 9 global
+<<<<<<< HEAD
 grana 10 lokal
+=======
+grana 10 global
+>>>>>>> 0741e6d844b16e48472a0fbcf01d05c9b06bece2
