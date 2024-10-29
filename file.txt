@@ -10,3 +10,4 @@ grana 9 global
 grana 10 lokal
 grana 10 global
 grana 11 lokal
+grana 12 global
