@@ -3,3 +3,4 @@ dodajem jos jednu liniju
 grana tri globalno
 grana 4 lokalno
 grana 5 lokal
+grana 6 lokal
