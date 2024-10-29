@@ -4,3 +4,4 @@ grana tri globalno
 grana 4 lokalno
 grana 5 lokal
 grana 6 lokal
+grana 7 lokal
