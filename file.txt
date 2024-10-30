@@ -11,3 +11,4 @@ grana 10 lokal
 grana 10 global
 grana 11 lokal
 linija 12 lokal
+grana 12 global
