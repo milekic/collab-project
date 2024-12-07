@@ -1,14 +1,3 @@
-moja prva linija u fajlu
-dodajem jos jednu liniju
-grana tri globalno
-grana 4 lokalno
-grana 5 lokal
-grana 6 lokal
-grana 7 lokal
-grana 8 g
-grana 9 global
-grana 10 lokal
-grana 10 global
-grana 11 lokal
-grana 12 global
+
 grana 13 decembar
+grana 14 ff1
